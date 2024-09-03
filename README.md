@@ -110,7 +110,7 @@ A comprehensive **Tour and Travel Management System** developed using **Java, Ja
 - **Payment:** Make payments via Paytm (please do not proceed unless you wish to support my work).
 
 <div align="center">
-  <img width="440" alt="image" src="https://user-images.githubusercontent.com/101044019/192495645-28635795-670d-4fd6-9368-c7edaf69162b.png">
+  <img width="440" alt="image" src="src/icons/Payment.png">
 </div>
 
 - **Destinations:** (Coming Soon) Explore exciting travel destinations.
